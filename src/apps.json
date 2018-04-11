@@ -11146,7 +11146,7 @@
       "icon": "Yandex.Metrika.png",
       "script": [
         "mc\\.yandex\\.ru\\/metrika\\/watch\\.js",
-        "cdn\\.jsdelivr\\.net\\/npm\\/yandex-metrica-watch\\/watch.js"
+        "cdn\\.jsdelivr\\.net\\/npm\\/yandex-metrica-watch\\/watch\\.js"
       ],
       "website": "http://metrika.yandex.com"
     },
