@@ -18,7 +18,7 @@
         "gaplugins.EC": ""
       },
       "icon": "Google Analytics.svg",
-      "script": "google-analytics\\.com\\/plugins\\/ua\\/(ec|ecommerce)\\.js",
+      "script": "google-analytics\\.com\\/plugins\\/ua\\/(?:ec|ecommerce)\\.js",
       "implies": "Google Analytics",
       "website": "https://developers.google.com/analytics/devguides/collection/analyticsjs/enhanced-ecommerce"
     },
