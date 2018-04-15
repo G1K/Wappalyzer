@@ -1,0 +1,9 @@
+{
+  "name": "g1k/wappalyzer",
+  "description": "Wappalyzer fork for composer.",
+  "require": {
+  },
+  "support": {
+    "email": "mr@g1k.ru"
+  }
+}

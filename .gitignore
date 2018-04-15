@@ -1,3 +1,4 @@
+/.idea
 /build/*
 /src/icons/converted/*
 /node_modules
